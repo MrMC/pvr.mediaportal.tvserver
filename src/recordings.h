@@ -18,8 +18,8 @@
  */
 
 #include <stdlib.h>
-#include "kodi/libXBMC_addon.h"
-#include "kodi/libXBMC_pvr.h"
+#include "mrmc/libXBMC_addon.h"
+#include "mrmc/libXBMC_pvr.h"
 #include "Cards.h"
 #include "GenreTable.h"
 #include "DateTime.h"
