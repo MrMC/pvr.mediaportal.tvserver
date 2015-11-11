@@ -6,8 +6,8 @@ set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${PROJECT_SOURCE_DIR})
 
 enable_language(CXX)
 
-find_package(kodi REQUIRED)
-find_package(kodiplatform REQUIRED)
+find_package(mrmc REQUIRED)
+find_package(mrmcplatform REQUIRED)
 find_package(platform REQUIRED)
 find_package(TinyXML REQUIRED)
 
@@ -19,10 +19,10 @@ STRING(REGEX REPLACE ".*version=.([0-9\\.]+).*" "\\1" MPTV_VERSION ${MPTV_VERSIO
 # Generate an addon_version.h header with the version information
 configure_file(src/addon_version.h.in addon_version.h)
 
-include_directories(${kodiplatform_INCLUDE_DIRS}
+include_directories(${mrmcplatform_INCLUDE_DIRS}
                     ${platform_INCLUDE_DIRS}
                     ${TINYXML_INCLUDE_DIR}
-                    ${KODI_INCLUDE_DIR}
+                    ${MRMC_INCLUDE_DIR}
                     ${PROJECT_SOURCE_DIR}/src
                     ${PROJECT_BINARY_DIR})
 

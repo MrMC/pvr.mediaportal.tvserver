@@ -18,7 +18,7 @@
  */
 
 #include "client.h"
-#include "kodi/xbmc_pvr_dll.h"
+#include "mrmc/xbmc_pvr_dll.h"
 #include "pvrclient-mediaportal.h"
 #include "utils.h"
 
