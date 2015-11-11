@@ -14,7 +14,7 @@
       <posy>0</posy>
       <width>800</width>
       <height>500</height>
-      <texture border="40" fallback="special://xbmc/addons/pvr.mediaportal.tvserver/resources/skins/skin.confluence/media/DialogBack.png">DialogBack.png</texture>
+      <texture border="40" fallback="special://xbmc/addons/pvr.mediaportal.tvserver/resources/skins/skin.mrmc/media/DialogBack.png">DialogBack.png</texture>
     </control>
     <control type="image">
       <description>Dialog Header image</description>
@@ -130,7 +130,7 @@
         <height>2</height>
         <width>720</width>
         <aspectratio align="left" aligny="top">stretch</aspectratio>
-        <texture fallback="special://xbmc/addons/pvr.mediaportal.tvserver/resources/skins/skin.confluence/media/separator2.png">separator2.png</texture>
+        <texture fallback="special://xbmc/addons/pvr.mediaportal.tvserver/resources/skins/skin.mrmc/media/separator2.png">separator2.png</texture>
       </control>
 
       <control type="spincontrolex" id="13">

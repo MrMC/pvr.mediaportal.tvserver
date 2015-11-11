@@ -1,6 +1,5 @@
 /*
  *      Copyright (C) 2005-2013 Team Kodi
- *      http://kodi.tv
  *
  *  This Program is free software; you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
@@ -22,7 +21,7 @@
 
 #include "client.h"
 #include "GUIDialogRecordSettings.h"
-#include "kodi/libKODI_guilib.h"
+#include "mrmc/libKODI_guilib.h"
 #include "timers.h"
 #include "utils.h"
 #include "DateTime.h"
@@ -69,11 +68,11 @@ CGUIDialogRecordSettings::CGUIDialogRecordSettings(const PVR_TIMER &timerinfo, c
 
   // needed for every dialog
   m_retVal = -1;				// init to failed load value (due to xml file not being found)
-  // Default skin should actually be "skin.confluence", but the fallback mechanism will only
+  // Default skin should actually be "skin.mrmc", but the fallback mechanism will only
   // find the xml file and not the used image files. This will result in a transparent window
   // which is basically useless. Therefore, it is better to let the dialog fail by using the
-  // incorrect fallback skin name "Confluence"
-  m_window = GUI->Window_create("DialogRecordSettings.xml", "Confluence", false, true);
+  // incorrect fallback skin name "MrMC"
+  m_window = GUI->Window_create("DialogRecordSettings.xml", "MrMC", false, true);
   if (m_window)
   {
     m_window->m_cbhdl = this;
