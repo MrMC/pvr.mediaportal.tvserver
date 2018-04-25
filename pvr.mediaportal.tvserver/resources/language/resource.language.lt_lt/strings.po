@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "Mediaportal kompiuterio vardas"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Mediaportal Kodi įskiepio prievadas"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Mediaportal MrMC įskiepio prievadas"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -277,8 +277,8 @@ msgid "Backend default"
 msgstr "Kaip numatyta posistemėje"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Kaip numatyta Kodi"
+msgid "MrMC default"
+msgstr "Kaip numatyta MrMC"
 
 msgctxt "#30137"
 msgid "%d weeks"

@@ -21,7 +21,7 @@ msgid "Mediaportal Hostname"
 msgstr "שם מארח או כתובת IP"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
+msgid "Mediaportal MrMC plugin Port"
 msgstr "פורט"
 
 msgctxt "#30002"
@@ -249,8 +249,8 @@ msgid "Backend default"
 msgstr "ברירת מחדל של שרת אחורי"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "ברירת מחדל של Kodi"
+msgid "MrMC default"
+msgstr "ברירת מחדל של MrMC"
 
 msgctxt "#30137"
 msgid "%d weeks"

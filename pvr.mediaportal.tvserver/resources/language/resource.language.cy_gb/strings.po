@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "Enw Gweinydd Mediaportal"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Porth ategyn Mediaportal Kodi"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Porth ategyn Mediaportal MrMC"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -241,5 +241,5 @@ msgid "Backend default"
 msgstr "Ôl-ragosodiad"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Rhagosodiad Kodi"
+msgid "MrMC default"
+msgstr "Rhagosodiad MrMC"

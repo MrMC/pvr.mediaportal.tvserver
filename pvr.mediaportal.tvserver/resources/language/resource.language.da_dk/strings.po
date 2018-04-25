@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "Mediaportal Værtsnavn"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Mediaportal Kodi plug-in port"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Mediaportal MrMC plug-in port"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -90,11 +90,11 @@ msgstr "Afspilning"
 
 msgctxt "#30050"
 msgid "Your TVServerKodi version '%s' is too old. Please upgrade to '%s' or higher!"
-msgstr "Din TVserverKodi version '%s' er for gammel. Opgrader venligst til '%s' eller højere!"
+msgstr "Din TVserverMrMC version '%s' er for gammel. Opgrader venligst til '%s' eller højere!"
 
 msgctxt "#30051"
 msgid "Your TVServerKodi version is too old. Please upgrade to '%s' or higher!"
-msgstr "Din TVserverKodi version er for gammel. Opgrader venligst til '%s' eller højere!"
+msgstr "Din TVserverMrMC version er for gammel. Opgrader venligst til '%s' eller højere!"
 
 msgctxt "#30052"
 msgid "Recording playback failed. Empty URL of filename."
@@ -241,5 +241,5 @@ msgid "Backend default"
 msgstr "Backend standard"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Kodi standard"
+msgid "MrMC default"
+msgstr "MrMC standard"

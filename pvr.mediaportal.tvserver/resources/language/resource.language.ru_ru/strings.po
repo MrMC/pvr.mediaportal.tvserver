@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "Имя хоста Mediaportal"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Порт дополнения Kodi для Mediaportal"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Порт дополнения MrMC для Mediaportal"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -94,11 +94,11 @@ msgstr "Воспроизведение"
 
 msgctxt "#30050"
 msgid "Your TVServerKodi version '%s' is too old. Please upgrade to '%s' or higher!"
-msgstr "Версия ТВ-сервера Kodi \"%s\" слишком старая. Обновитесь до версии \"%s\" или выше."
+msgstr "Версия ТВ-сервера MrMC \"%s\" слишком старая. Обновитесь до версии \"%s\" или выше."
 
 msgctxt "#30051"
 msgid "Your TVServerKodi version is too old. Please upgrade to '%s' or higher!"
-msgstr "Версия ТВ-сервера Kodi слишком старая. Обновитесь до версии \"%s\" или выше."
+msgstr "Версия ТВ-сервера MrMC слишком старая. Обновитесь до версии \"%s\" или выше."
 
 msgctxt "#30052"
 msgid "Recording playback failed. Empty URL of filename."
@@ -277,8 +277,8 @@ msgid "Backend default"
 msgstr "Стандартные настройки серверной части"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Стандартные настройки Kodi"
+msgid "MrMC default"
+msgstr "Стандартные настройки MrMC"
 
 msgctxt "#30137"
 msgid "%d weeks"

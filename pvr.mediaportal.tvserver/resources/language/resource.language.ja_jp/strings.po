@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "Medialportal ホスト名"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Mediaportal Kodi プラグインのポート番号"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Mediaportal MrMC プラグインのポート番号"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -241,5 +241,5 @@ msgid "Backend default"
 msgstr "バックエンドの規定値"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Kodi の規定値"
+msgid "MrMC default"
+msgstr "MrMC の規定値"

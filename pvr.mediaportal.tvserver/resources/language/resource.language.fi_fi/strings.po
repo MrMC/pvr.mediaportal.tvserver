@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "Mediaportal-palvelimen nimi"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Mediaportal Kodi-lisäosan portti"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Mediaportal MrMC-lisäosan portti"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -241,5 +241,5 @@ msgid "Backend default"
 msgstr "Taustaosan oletus"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Kodin oletus"
+msgid "MrMC default"
+msgstr "MrMCn oletus"

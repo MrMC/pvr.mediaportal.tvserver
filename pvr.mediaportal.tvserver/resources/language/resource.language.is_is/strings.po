@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "Hýsingarnafn Mediaportal"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Gátt fyrir Mediaportal Kodi viðbót"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Gátt fyrir Mediaportal MrMC viðbót"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -241,5 +241,5 @@ msgid "Backend default"
 msgstr "Sjálfgefið fyrir bakenda"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Sjálfgefið fyrir Kodi"
+msgid "MrMC default"
+msgstr "Sjálfgefið fyrir MrMC"

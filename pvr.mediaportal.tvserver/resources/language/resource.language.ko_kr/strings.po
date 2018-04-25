@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "Mediaportal 호스트네임"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Mediaportal Kodi 플러그인 포트"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Mediaportal MrMC 플러그인 포트"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -241,5 +241,5 @@ msgid "Backend default"
 msgstr "백엔드 기본"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Kodi 기본"
+msgid "MrMC default"
+msgstr "MrMC 기본"

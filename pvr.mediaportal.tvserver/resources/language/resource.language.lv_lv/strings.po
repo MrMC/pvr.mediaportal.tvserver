@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "Mediaportal saimniekvārds"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Mediaportal Kodi spraudņa ports"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Mediaportal MrMC spraudņa ports"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -241,5 +241,5 @@ msgid "Backend default"
 msgstr "Aizmugursistēmas noklusējums"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Kodi noklusējums"
+msgid "MrMC default"
+msgstr "MrMC noklusējums"

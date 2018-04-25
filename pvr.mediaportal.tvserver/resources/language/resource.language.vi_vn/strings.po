@@ -21,7 +21,7 @@ msgid "Mediaportal Hostname"
 msgstr "Tên miền Mediaportal"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
+msgid "Mediaportal MrMC plugin Port"
 msgstr "Cổng Mediaportal"
 
 msgctxt "#30002"

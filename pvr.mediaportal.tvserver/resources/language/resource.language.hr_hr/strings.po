@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "MediaPortal naziv računala"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Ulaz Mediaportal Kodi dodatka"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Ulaz Mediaportal MrMC dodatka"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -94,11 +94,11 @@ msgstr "Reprodukcija"
 
 msgctxt "#30050"
 msgid "Your TVServerKodi version '%s' is too old. Please upgrade to '%s' or higher!"
-msgstr "Vaš Kodi TV poslužitelj inačice '%s' je zastario. Nadogradite ga na '%s' ili noviju inačicu!"
+msgstr "Vaš MrMC TV poslužitelj inačice '%s' je zastario. Nadogradite ga na '%s' ili noviju inačicu!"
 
 msgctxt "#30051"
 msgid "Your TVServerKodi version is too old. Please upgrade to '%s' or higher!"
-msgstr "Inačica vašeg Kodi TV poslužitelja je prestara. Nadogradite ga na '%s' ili noviju inačicu!"
+msgstr "Inačica vašeg MrMC TV poslužitelja je prestara. Nadogradite ga na '%s' ili noviju inačicu!"
 
 msgctxt "#30052"
 msgid "Recording playback failed. Empty URL of filename."
@@ -277,8 +277,8 @@ msgid "Backend default"
 msgstr "Zadani pozadinski softver"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Kodi zadan"
+msgid "MrMC default"
+msgstr "MrMC zadan"
 
 msgctxt "#30137"
 msgid "%d weeks"

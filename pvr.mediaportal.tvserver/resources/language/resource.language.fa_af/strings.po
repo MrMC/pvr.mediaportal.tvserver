@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "نام سرور مدیا پورتال"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "پورت پلاگین مدیاپورتال Kodi"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "پورت پلاگین مدیاپورتال MrMC"
 
 msgctxt "#30002"
 msgid "Free-to-air only"

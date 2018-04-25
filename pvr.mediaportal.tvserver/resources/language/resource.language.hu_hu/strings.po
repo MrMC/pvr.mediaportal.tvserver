@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "MediaPortal Kiszolgálónév"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "MediaPortal Kodi kiegészítő port"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "MediaPortal MrMC kiegészítő port"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -245,8 +245,8 @@ msgid "Backend default"
 msgstr "Háttérszolgáltatás alapértelmezett"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Kodi alapértelmezett"
+msgid "MrMC default"
+msgstr "MrMC alapértelmezett"
 
 msgctxt "#30137"
 msgid "%d weeks"

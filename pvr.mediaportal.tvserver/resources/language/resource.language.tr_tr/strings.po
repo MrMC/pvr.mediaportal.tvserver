@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "Mediaportal Ana Bilgisayar Adı"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Mediaportal Kodi eklentisi Bağlantı noktası"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Mediaportal MrMC eklentisi Bağlantı noktası"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -241,5 +241,5 @@ msgid "Backend default"
 msgstr "Arka uç varsayılanı"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Kodi varsayılanı"
+msgid "MrMC default"
+msgstr "MrMC varsayılanı"

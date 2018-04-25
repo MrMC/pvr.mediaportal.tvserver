@@ -21,8 +21,8 @@ msgid "Mediaportal Hostname"
 msgstr "Názov hostiteľa Mediaportal"
 
 msgctxt "#30001"
-msgid "Mediaportal Kodi plugin Port"
-msgstr "Mediaportal Kodi plugin - port"
+msgid "Mediaportal MrMC plugin Port"
+msgstr "Mediaportal MrMC plugin - port"
 
 msgctxt "#30002"
 msgid "Free-to-air only"
@@ -241,5 +241,5 @@ msgid "Backend default"
 msgstr "Predvolené hodnoty backendu"
 
 msgctxt "#30136"
-msgid "Kodi default"
-msgstr "Predvolené hodnoty Kodi"
+msgid "MrMC default"
+msgstr "Predvolené hodnoty MrMC"
